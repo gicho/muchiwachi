@@ -1,0 +1,9 @@
+com_port.txt
+.vimrc
+cscope.out
+*.pyc
+build
+*.7z
+*.o
+*.bak
+.DS_Store
