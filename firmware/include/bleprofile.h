@@ -256,6 +256,7 @@ enum ble_adv_flag_value
     ADV_SERVICE_TARGET_RANDOM_ADR       = 0x18,
     ADV_APPEARANCE                      = 0x19,
     ADV_ADVERTISING_INTERVAL            = 0x1A,
+    ADV_SERVICE_DATA_UUID128            = 0x21,
     ADV_3D_INFORMATION_DATA             = 0x3D,
     ADV_MANUFACTURER_DATA               = 0xFF,
 };
